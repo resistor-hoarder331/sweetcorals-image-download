@@ -3,8 +3,9 @@ A small how to guide on downloading a sweet corals image datatset from hugging f
 
 I used a git bash terminal, because it made life easier for me, and it gave me the actual image files, and not pointers.
 
-Before you begin, have a hugging face account and you may need an access token (more on that later!).
+I used the Tabuhan dataset, specifically the images from there: sweet-corals/_indonesia_tabuhan_p1_20250210/images
 
+Here is the sweet corals website: https://huggingface.co/datasets/wildflow/sweet-corals
 
 Here is the step by step guide:
 
