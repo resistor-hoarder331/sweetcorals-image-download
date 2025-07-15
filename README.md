@@ -13,8 +13,8 @@ Here is the step by step guide:
 3. In the terminal:
    1. mkdir -p ~/bin
    2. cd ~/bin
-   3. wget https://github.com/git-lfs/git-lfs/releases/download/v3.5.1/git-lfs-linux-amd64-v3.5.1.tar.gz <break>
-      tar -xvzf git-lfs-linux-amd64-v3.5.1.tar.gz <break>
+   3. wget https://github.com/git-lfs/git-lfs/releases/download/v3.5.1/git-lfs-linux-amd64-v3.5.1.tar.gz <break></break>
+      <break>tar -xvzf git-lfs-linux-amd64-v3.5.1.tar.gz </break>
       You should see: git-lfs-linux-amd64-v3.5.1.tar.gz    100%[====================================================================>]   4.74M  21.7MB/s    in 0.2s (or something similar) <break>
    6. mv git-lfs-3.5.1/git-lfs ~/bin/
    7. rm -rf git-lfs-3.5.1 git-lfs-linux-amd64-v3.5.1.tar.gz
